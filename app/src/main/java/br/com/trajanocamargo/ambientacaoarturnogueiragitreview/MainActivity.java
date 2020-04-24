@@ -22,7 +22,8 @@ public class MainActivity extends AppCompatActivity {
         Log.d("MainActivity", " - Click");
     }
 
-    public void outraFuncaoNova(View v){
-        Log.d("MainActivity", " - Click de novo!");
+
+    public void outraFuncaoNovaDenovo(View v){
+        Log.d("MainActivity", " - Click");
     }
 }
