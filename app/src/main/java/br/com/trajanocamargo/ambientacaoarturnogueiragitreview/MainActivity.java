@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
     public void exibriLog(View v){
         Log.d("MainActivity", " - Click");
     }
+
+    public void outraFuncao(View v){
+        Log.d("MainActivity", " - Click");
+    }
 }
